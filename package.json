@@ -2,6 +2,7 @@
   "name": "api-vendas",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Moises Pires",
   "license": "MIT",
   "scripts": {
     "start": "node dist/shared/infra/http/server.js",
